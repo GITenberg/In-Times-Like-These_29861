@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1470
     wikipedia: http://en.wikipedia.org/wiki/Nellie_McClung
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29861#In-Times-Like-These
 gutenberg_issued: '2009-11-24'
 gutenberg_type: Text
 identifiers:
