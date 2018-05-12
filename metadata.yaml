@@ -1,0 +1,39 @@
+_repo: In-Times-Like-These_29861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McClung, Nellie L.
+    aliases:
+    - McClung, Nellie Letitia Mooney
+    - Mooney, Nellie Letitia
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '1470'
+    url: http://www.gutenberg.org/2009/agents/1470
+    wikipedia: http://en.wikipedia.org/wiki/Nellie_McClung
+description: ''
+gutenberg_issued: '2009-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+- !lcsh 'Women -- Canada'
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Women -- History'
+- !lcsh 'Women -- Conduct of life'
+tableOfContents: The war that never ends -- The war that ends in exhaustion sometimes
+  mistaken for peace -- What do women think of war [not that it matters] -- Should
+  women think? -- The new chivalry -- Hardy perennials! -- Gentle lady -- Women and
+  the church -- The sore thought -- The land of the fair deal -- As a man thinketh
+  -- The war against gloom.
+title: In Times Like These
+url: http://www.gutenberg.org/ebooks/29861
